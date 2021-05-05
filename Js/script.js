@@ -11,6 +11,4 @@ function imprimir() {
       console.log("Hola " + "a" + "todos")
 
       console.log ("Funcionando")
-
-   
 }
